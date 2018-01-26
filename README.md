@@ -1,5 +1,5 @@
 # DataQuestChallenges
-Data Quest Challenges
+
 This repository of DataQuest.io Challenges
    1. Challenge1 - Files, Loops and Conditional Logic
 
